@@ -15,7 +15,7 @@ $ npm install google-shortcut-cli -g
 create your own google application api first
 
 ```
-$ export export GOOGLE_SHORT_CUT_API_KEY=GOOGLE_APPLICATION_API_KEY
+$ export GOOGLE_SHORT_CUT_API_KEY=GOOGLE_APPLICATION_API_KEY
 $ googleshortcut http://www.google.com/
 
 // Great ! you can paste in anywhere now.
