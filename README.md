@@ -2,10 +2,12 @@
 
 Simple Terminal Create Google Shortcut Url
 
+* This project is dependency with superagent.
+
 ## Installation
 
 ```
-$ npm install google-shortcut-cli -g
+$ npm install google-shortcut-cli superagent -g
 ```
 
 ## Uses
