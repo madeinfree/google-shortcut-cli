@@ -1,12 +1,16 @@
 {
   "name": "google-shortcut-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Terminal Create Google Shortcut Url ",
   "bin": {
     "googleshortcut": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madeinfree/google-shortcut-cli.git"
   },
   "keywords": ["google", "shortcut"],
   "author": "Whien_Liou <sal95610@gmail.com>",
